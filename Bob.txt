@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi, I am Bob, I've been here for a while now!!!
+=======
+Hi, I am Bobby, I am new here!!!
+>>>>>>> bobby_branch
 new line in bob
